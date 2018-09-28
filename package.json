@@ -1,0 +1,22 @@
+{
+  "name": "nongki",
+  "version": "1.0.0",
+  "description": "Aplikasi PWA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moryku/nongki.git"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moryku/nongki/issues"
+  },
+  "homepage": "https://github.com/moryku/nongki#readme"
+}
