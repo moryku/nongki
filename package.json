@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/moryku/nongki/issues"
   },
-  "homepage": "https://github.com/moryku/nongki#readme"
+  "homepage": "https://github.com/moryku/nongki#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
