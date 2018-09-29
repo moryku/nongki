@@ -1,0 +1,24 @@
+{
+  "name": "nongki",
+  "version": "1.0.0",
+  "description": "Aplikasi PWA",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moryku/nongki.git"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moryku/nongki/issues"
+  },
+  "homepage": "https://github.com/moryku/nongki#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
