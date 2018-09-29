@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/moryku/nongki#readme",
   "dependencies": {
+    "bootstrap": "^4.1.3",
     "express": "^4.16.3"
   }
 }
