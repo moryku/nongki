@@ -13,8 +13,8 @@ let arr_marker = [
   [-7.956251, 112.613429, 'Gerbang Veteran UB'],
   [-7.956573, 112.618356, 'Malang Town Square']
 ];
-mymap.panTo(new L.LatLng(-7.953521, 112.614646));
-mymap.panTo(new L.LatLng(-7.956573, 112.618356));
+// mymap.panTo(new L.LatLng(-7.953521, 112.614646));
+// mymap.panTo(new L.LatLng(-7.956573, 112.618356));
 
 let marker = [];
 for (i = 0; i < arr_marker.length; i++) {
