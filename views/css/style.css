@@ -3,4 +3,44 @@
     padding-right: 0px;
     padding-left: 0px;
 }
-    
+
+#filternya{
+    color: black;
+}
+
+.search{
+    padding: 0 5% 0 5%;
+}
+
+.konten{
+    padding: 25px 0 0 0;
+}
+
+#item{
+    flex-direction: row;
+    margin: 5px 5% 0 5%;
+    flex: none;
+}
+
+#itemfilter{
+    margin: 5px 5% 20px 5%;
+    flex: none;
+}
+
+.card-title{
+    color:black; 
+    text-decoration-line:none;
+        
+}
+
+.card-text{
+    color:black; 
+    text-decoration-line:none;
+}
+
+#gambar{
+    max-width: 130px;
+    height: 130px;
+    padding: 1.25rem;
+    justify-content: center;
+}
